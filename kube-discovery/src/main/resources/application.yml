@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: kube-discovery
+  cloud:
+    kubernetes:
+      discovery:
+        all-namespaces: true

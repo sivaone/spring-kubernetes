@@ -1,0 +1,7 @@
+kubectl apply -f kube
+kubectl get pods
+kubectl get services
+
+kubectl delete -f kube
+
+# url: http://localhost:80

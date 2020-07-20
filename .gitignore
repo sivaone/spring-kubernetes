@@ -21,3 +21,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/
+.project
+.settings/
+kube-discovery/target/
+service-one/target/
+service-one/.classpath
+service-one/.factorypath
+notebook/.factorypath
+notebook/.classpath
+notebook/target/
+kube-discovery/.classpath
+kube-discovery/.factorypath
+spring-kubernetes.iml

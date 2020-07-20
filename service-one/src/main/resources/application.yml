@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: service-one
+management:
+  endpoints:
+    enabled-by-default: true
+car:
+  greeting: "Hello Car!"
